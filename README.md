@@ -1,7 +1,7 @@
 # Scrawlr Upvote System
 
 ## 🚀 Live Demo
-[Scrawlr-One on Vercel](https://scrawlr-one.vercel.app/)
+[Scrawlr Upvote System](https://scrawlr-one.vercel.app/)
 
 ## Installation and Running the App
 ```sh
