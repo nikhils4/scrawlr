@@ -1,0 +1,24 @@
+.upvote-list {
+  padding: 1rem;
+  flex: 1;
+  border: 1px solid #E5E7EB;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.votes-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.upvote-list-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.no-votes-yet {
+  color: black;
+  padding: 1rem 0;
+}
